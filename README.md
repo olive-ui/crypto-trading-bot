@@ -103,9 +103,21 @@ Includes:
 
 * This project uses **Binance Futures Testnet**, so no real funds are used
 * Orders may remain in `NEW` state due to testnet behavior
-* Do not share your API keys publicly
 
 ---
+## Screenshots
+
+### Market Order
+<img width="1396" height="398" alt="image" src="https://github.com/user-attachments/assets/e3b7564d-5fb7-4ac6-a5b2-634bd2a02c46" />
+
+
+### Limit Order
+<img width="1692" height="349" alt="image" src="https://github.com/user-attachments/assets/48383419-c460-4245-b1f3-5a1c2fc4c119" />
+
+
+### Error Handling
+<img width="1683" height="245" alt="image" src="https://github.com/user-attachments/assets/584306f9-fee7-4fe5-86c4-dacfbe987fe4" />
+
 
 ## Tech Stack
 
